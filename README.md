@@ -7,7 +7,7 @@ I am a passionate **.NET Developer** with a strong background in **Web Developme
 ## 🚀 Skills & Expertise
 
 - **Languages**: C#, Python, TypeScript, JavaScript, HTML, CSS
-- **Frameworks**: Angular, .NET Core, MVC, Web API, WPF
+- **Frameworks**: Angular, .NET Core(MVC, Web API), WPF, MAUI
 - **Cloud**: Azure, AWS
 - **Database**: MSSQL, PostgreSQL
 - **ORM**: Entity Framework, Dapper
