@@ -8,9 +8,10 @@ I am a passionate **.NET Developer** with a strong background in **Web Developme
 
 - **Languages**: C#, Python, TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: Angular, .NET Core, MVC, Web API, WPF
-- **Cloud**: Azure
-- **Database**: SQL Server, Entity Framework, Dapper, LINQ
-- **Web Development**: RESTful services, Single Page Applications (SPAs), Microservices
+- **Cloud**: Azure, AWS
+- **Database**: MSSQL, PostgreSQL
+- **ORM**: Entity Framework, Dapper
+- **Web Development**: RESTful, RPC, Single Page Applications (SPAs), Microservices
 - **Tools & Technologies**: Visual Studio Code, Rider, Git, Docker, CI/CD
 - **Testing**: Unit Testing(XUnit, NUnit), Integration Testing(Web Factory), Mocking(NSubstitude, Moq), FLuentAssertions
 - **Other**: Agile/Scrum, DevOps, Design Patterns, TDD, DDD, SOLID
